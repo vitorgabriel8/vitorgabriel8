@@ -1,5 +1,5 @@
 ## ola,seja bem vindo ao meu perfil  👋
-meu nome é vitor gabriel souza santos
+meu nome é Vitor Gabriel Souza Santos
 
 - Estou estudando na alura
 - Estou me envolvendo na linguagem javaScript
